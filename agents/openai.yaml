@@ -1,0 +1,4 @@
+interface:
+  display_name: "procurement-challenge-letter"
+  short_description: "逐字扫描招标文件，识别指向性、倾向性并起草证据化质疑函"
+  default_prompt: "使用 $procurement-challenge-letter 逐段扫描招标文件并起草证据化政府采购质疑函。"
